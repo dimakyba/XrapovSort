@@ -1,0 +1,14 @@
+D:\Desktop\xs\XrapovSort\bin\Debug\net8.0\XrapovSort.exe
+D:\Desktop\xs\XrapovSort\bin\Debug\net8.0\XrapovSort.deps.json
+D:\Desktop\xs\XrapovSort\bin\Debug\net8.0\XrapovSort.runtimeconfig.json
+D:\Desktop\xs\XrapovSort\bin\Debug\net8.0\XrapovSort.dll
+D:\Desktop\xs\XrapovSort\bin\Debug\net8.0\XrapovSort.pdb
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.AssemblyInfoInputs.cache
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.AssemblyInfo.cs
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.csproj.CoreCompileInputs.cache
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.dll
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\refint\XrapovSort.dll
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.pdb
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\XrapovSort.genruntimeconfig.cache
+D:\Desktop\xs\XrapovSort\obj\Debug\net8.0\ref\XrapovSort.dll
