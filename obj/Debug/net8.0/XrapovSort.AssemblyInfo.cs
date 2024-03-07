@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XrapovSort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c92c592bb9a7f8a0ddb41b5efb386206b8c89279")]
 [assembly: System.Reflection.AssemblyProductAttribute("XrapovSort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XrapovSort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
